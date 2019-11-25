@@ -25,7 +25,8 @@ void incremento(vector<int> &vec, int n)
 
 int main(){
 	vector<int> vec = {1, 5, 7, 10, 12, 14, 15, 18, 20, 22, 25, 27, 30, 64, 110, 220};
+	int n;
 	cin >> n;
-	thread t1(incremento, ref(v1), n);
+	thread t1(incremento, ref(vec), n);
 	t1.join();
 }

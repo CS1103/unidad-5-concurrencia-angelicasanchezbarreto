@@ -1,4 +1,4 @@
-# Install script for directory: /home/lica-pc/CLionProjects/git_concurrencia/unidad-5-concurrencia-angelicasanchezbarreto/#2
+# Install script for directory: /home/lica-pc/CLionProjects/POO 2/11.Concurrencia/EJERCICIOS/#9
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/lica-pc/CLionProjects/git_concurrencia/unidad-5-concurrencia-angelicasanchezbarreto/#2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/lica-pc/CLionProjects/POO 2/11.Concurrencia/EJERCICIOS/#9/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
