@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lica-pc/CLionProjects/git_concurrencia/unidad-5-concurrencia-angelicasanchezbarreto/#6/Nodo.cpp
+
+/home/lica-pc/CLionProjects/git_concurrencia/unidad-5-concurrencia-angelicasanchezbarreto/#6/main.cpp
+iostream
+-
+thread
+-
+vector
+-
+Nodo.cpp
+/home/lica-pc/CLionProjects/git_concurrencia/unidad-5-concurrencia-angelicasanchezbarreto/#6/Nodo.cpp
+

@@ -1,0 +1,3 @@
+/home/lica-pc/CLionProjects/POO 2/11.Concurrencia/EJERCICIOS/#8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lica-pc/CLionProjects/POO 2/11.Concurrencia/EJERCICIOS/#8/cmake-build-debug/CMakeFiles/_8.dir
+/home/lica-pc/CLionProjects/POO 2/11.Concurrencia/EJERCICIOS/#8/cmake-build-debug/CMakeFiles/edit_cache.dir

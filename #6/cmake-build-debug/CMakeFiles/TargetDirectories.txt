@@ -1,0 +1,3 @@
+/home/lica-pc/CLionProjects/git_concurrencia/unidad-5-concurrencia-angelicasanchezbarreto/#6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lica-pc/CLionProjects/git_concurrencia/unidad-5-concurrencia-angelicasanchezbarreto/#6/cmake-build-debug/CMakeFiles/_6.dir
+/home/lica-pc/CLionProjects/git_concurrencia/unidad-5-concurrencia-angelicasanchezbarreto/#6/cmake-build-debug/CMakeFiles/edit_cache.dir
