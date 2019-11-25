@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lica-pc/CLionProjects/POO 2/11.Concurrencia/EJERCICIOS/#4/main.cpp
+iostream
+-
+string
+-
+future
+-
+vector
+-
+

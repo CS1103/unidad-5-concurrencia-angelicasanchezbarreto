@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lica-pc/CLionProjects/POO 2/11. Concurrencia/EJERCICIOS/#1/main.cpp
+iostream
+-
+vector
+-
+thread
+-
+
